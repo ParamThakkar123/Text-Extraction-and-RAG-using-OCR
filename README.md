@@ -1,0 +1,1 @@
+# Text-Extraction-and-RAG-using-OCR
