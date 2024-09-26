@@ -19,9 +19,11 @@ To set up the environment and install the necessary dependencies, run the follow
 ```bash
 pip install -q git+https://github.com/huggingface/transformers.git qwen-vl-utils flash-attn
 pip install streamlit -q
+```
 
 ## Run the application
 in the command line enter : 
 
 ```bash
 streamlit run app.py
+```
