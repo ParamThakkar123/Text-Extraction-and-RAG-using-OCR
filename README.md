@@ -27,3 +27,14 @@ in the command line enter :
 ```bash
 streamlit run app.py
 ```
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/8f31d872-8b47-4d85-9c62-0ba902b9d149)
+
+![image](https://github.com/user-attachments/assets/6485ea99-aee7-4241-a8f6-a814ab4f8d9b)
+
+![image](https://github.com/user-attachments/assets/d6b1a64d-10ed-4d72-9d37-01729c2035f9)
+
+Hindi : 
+
+![image](https://github.com/user-attachments/assets/1ae38c4e-50ee-489f-901a-91ca23a43b38)
